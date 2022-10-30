@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".upload"
+    android:background="#FDFDBD"
+    android:orientation="vertical"
+    android:gravity="center">
+    >
+    <com.google.android.material.textfield.TextInputLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/ThemeOverlay.Material3.AutoCompleteTextView.OutlinedBox"
+        android:layout_marginTop="20dp">
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/etuploadname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:layout_margin="20dp"
+            android:hint="your location"
+            android:inputType="textCapSentences"
+            android:textColor="#363A43"
+            android:textColorHint="#7A8089" >
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/etuploadnametwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:layout_margin="20dp"
+            android:hint="problem"
+            android:inputType="textLongMessage"
+            android:textColor="#363A43"
+            android:textColorHint="#7A8089" >
+
+        </androidx.appcompat.widget.AppCompatEditText>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnsubmitupload"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="#E0144C"
+                android:text="submit"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+               >
+
+            </Button>
+
+        </LinearLayout>
+    </LinearLayout>
+ </com.google.android.material.textfield.TextInputLayout>
+</LinearLayout>

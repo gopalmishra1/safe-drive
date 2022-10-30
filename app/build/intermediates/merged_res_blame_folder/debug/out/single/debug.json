@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.safedrive.app-merged_res-44:/layout_activity_drive.xml.flat",
+        "source": "com.example.safedrive.app-main-46:/layout/activity_drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-pngs-39:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_fragment_item_list.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout-sw600dp_fragment_item_list.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout-sw600dp\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\drawable-v24_img1.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\drawable-v24\\img1.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\navigation_primary_details_nav_graph.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\navigation\\primary_details_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_activity_select.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout-sw600dp_fragment_item_detail.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout-sw600dp\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\navigation_primary_details_sub_nav_graph.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\navigation\\primary_details_sub_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_item_list_content.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\item_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_fragment_item_detail.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_activity_item_detail.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-merged_res-44:\\layout_activity_drive.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_drive.xml"
+    }
+]

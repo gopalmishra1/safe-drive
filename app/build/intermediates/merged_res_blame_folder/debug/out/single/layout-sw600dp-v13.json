@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.safedrive.app-mergeDebugResources-43:/layout-sw600dp-v13/fragment_item_detail.xml",
+        "source": "com.example.safedrive.app-main-46:/layout-sw600dp/fragment_item_detail.xml"
+    },
+    {
+        "merged": "com.example.safedrive.app-mergeDebugResources-43:/layout-sw600dp-v13/fragment_item_list.xml",
+        "source": "com.example.safedrive.app-main-46:/layout-sw600dp/fragment_item_list.xml"
+    }
+]

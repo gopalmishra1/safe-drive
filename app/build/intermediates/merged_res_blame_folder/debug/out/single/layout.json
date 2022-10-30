@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\activity_item_detail.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\fragment_item_detail.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\item_list_content.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\item_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\activity_select.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "com.example.safedrive.app-mergeDebugResources-43:/layout/activity_drive.xml",
+        "source": "com.example.safedrive.app-main-46:/layout/activity_drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\activity_drive.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\activity_upload.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-mergeDebugResources-43:\\layout\\fragment_item_list.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.safedrive.app-main-46:\\layout\\fragment_item_list.xml"
+    }
+]
